@@ -13,9 +13,6 @@ public class Principal {
         listaClientes.add(cl1);
         listaClientes.add(cl2);
 
-        // Por qué anda el add?
-        // Porque gracias a la herencia cl1 y cl2 también SON clientes!
-
-
+        System.out.println("Chau!!!");
     }
 }
